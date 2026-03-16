@@ -1,0 +1,2353 @@
+WEBVTT
+
+72933115-78e2-45f5-a4ee-69083bc367d3-0
+00:00:05.440 --> 00:00:06.080
+Hello.
+
+b3790577-f082-4f43-bb98-4c9182450828-0
+00:00:06.080 --> 00:00:06.880
+How are you?
+
+b6ecd5b8-69e6-4208-a4d1-7ca1f4d8c870-0
+00:00:07.720 --> 00:00:10.440
+Oh, wait, I'm still mute.
+
+83d7fff8-55dc-4b98-a111-142d6455301f-0
+00:00:10.440 --> 00:00:11.200
+I'm sorry.
+
+137c5d3a-8f5f-4135-a580-9d2bc2c2fdc9-0
+00:00:19.480 --> 00:00:19.960
+Good morning.
+
+c177413f-401d-456a-adc5-614bd5c3992c-0
+00:00:28.720 --> 00:00:29.240
+Yes.
+
+84bf316a-a7d7-42dd-8d51-55a7e4f6b3d1-0
+00:00:29.240 --> 00:00:29.400
+Yes.
+
+b6d274b1-29fb-4fed-8474-a3dd3f8e98a8-0
+00:00:30.040 --> 00:00:30.160
+OK.
+
+6a5052a6-de71-4e43-a999-7775fdd8bd1e-0
+00:00:30.880 --> 00:00:31.960
+Oh, I can hear you as well.
+
+67d1ea55-22ed-45f6-9828-24f632b9b912-0
+00:00:33.840 --> 00:00:34.480
+OK.
+
+4e23fcbd-9046-431e-ae34-7a3d870b06f4-0
+00:00:44.040 --> 00:00:44.600
+Hello, Anita.
+
+af455178-1f0e-4633-8ae2-b83365af6980-0
+00:00:44.600 --> 00:00:44.800
+Hello.
+
+bae60dbc-53bc-4317-8590-2735a7a1523a-0
+00:00:49.440 --> 00:00:53.600
+OK, I bring with me Karina to help us.
+
+6b2c0118-150b-413a-80b8-3f75ea10af31-0
+00:00:53.920 --> 00:00:59.536
+Yes, Karina is our bow core expert,
+but you will be out of house for the next
+
+6b2c0118-150b-413a-80b8-3f75ea10af31-1
+00:00:59.536 --> 00:01:00.400
+three weeks.
+
+ca18f037-6d61-4799-98b3-e6afde66fb27-0
+00:01:00.400 --> 00:01:07.708
+But she will tell us how she did the last
+project where the where she had the same
+
+ca18f037-6d61-4799-98b3-e6afde66fb27-1
+00:01:07.708 --> 00:01:13.960
+constellation so that there is a partner
+and we have to work together.
+
+81dc2d93-a0cc-401b-a69f-acb2a0a52ae8-0
+00:01:14.600 --> 00:01:14.880
+Yes.
+
+3f1de485-d8cf-4320-b7e9-116213dbcc2c-0
+00:01:14.880 --> 00:01:20.400
+So Karina,
+how did you work in the last projects?
+
+7c0307a8-81b6-44a4-a5db-3279519ad299-0
+00:01:20.400 --> 00:01:22.800
+Can you give us a brief introduction?
+
+6be71c53-4545-4aac-a4ec-a0b318e1f61e-0
+00:01:24.240 --> 00:01:25.600
+Yes, hello.
+
+9427748f-bc38-4255-97dd-25002d074cca-0
+00:01:25.640 --> 00:01:26.360
+Hello everyone.
+
+2fac9361-cf7d-4e52-aaea-23953ce74b38-0
+00:01:28.640 --> 00:01:40.348
+So my suggestion would be if we have our
+own developer sandbox for all our bulk
+
+2fac9361-cf7d-4e52-aaea-23953ce74b38-1
+00:01:40.348 --> 00:01:51.618
+for implementations and then deploying to
+your UIT sandbox for user testing,
+
+2fac9361-cf7d-4e52-aaea-23953ce74b38-2
+00:01:51.618 --> 00:01:53.960
+stuff like that.
+
+8d2c8e59-55b5-46a9-8457-711412905ba3-0
+00:01:54.680 --> 00:01:58.107
+So,
+so everything what we will change
+
+8d2c8e59-55b5-46a9-8457-711412905ba3-1
+00:01:58.107 --> 00:02:02.707
+customize,
+we'll give it to you for deployment and
+
+8d2c8e59-55b5-46a9-8457-711412905ba3-2
+00:02:02.707 --> 00:02:08.120
+you can do your,
+your deployment process as you already do.
+
+e761e00e-f433-41e3-aebf-3068c4ec31a4-0
+00:02:09.440 --> 00:02:17.406
+And so we,
+we can be sure that everything is in the
+
+e761e00e-f433-41e3-aebf-3068c4ec31a4-1
+00:02:17.406 --> 00:02:26.140
+UAT work from your depth environment to
+the UAT sandbox.
+
+d65bc943-9d30-46d0-8078-366de922e388-0
+00:02:26.140 --> 00:02:30.020
+Is it something which is handled by
+Delaware then or by Bow Core?
+
+11a47b03-df62-43bb-b3f8-bfa168ef0c04-0
+00:02:35.240 --> 00:02:35.960
+You mean you?
+
+af8524f3-b889-41e4-93a0-b28871908510-0
+00:02:36.680 --> 00:02:38.760
+You mean the deployment?
+
+a08e7555-d6d7-4424-951b-41e9875fe067-0
+00:02:42.640 --> 00:02:44.760
+Wait, I have a problem here.
+
+3d1906e1-ed2a-48df-8fee-b03abebe6b29-0
+00:02:45.320 --> 00:02:46.520
+You mean the deployment?
+
+1d666cae-82a5-482a-9468-5ea0464bd3ad-0
+00:02:46.600 --> 00:02:46.960
+Yes.
+
+412ed6a1-f1c1-4993-afed-cae494ecde8e-0
+00:02:48.160 --> 00:02:51.358
+No, no,
+the deployment usually because the Bow
+
+412ed6a1-f1c1-4993-afed-cae494ecde8e-1
+00:02:51.358 --> 00:02:53.400
+core itself is a package, yes.
+
+58651b26-748c-4d2f-8503-4c0703c2e85e-0
+00:02:53.640 --> 00:02:57.013
+So mostly the items which needs to be
+deployed,
+
+58651b26-748c-4d2f-8503-4c0703c2e85e-1
+00:02:57.013 --> 00:03:00.879
+you will get a list from us whatever has
+been changed,
+
+58651b26-748c-4d2f-8503-4c0703c2e85e-2
+00:03:00.879 --> 00:03:04.182
+if there is things which needs to be
+deployed,
+
+58651b26-748c-4d2f-8503-4c0703c2e85e-3
+00:03:04.182 --> 00:03:08.400
+then we will tell you exactly what needs
+to be transferred.
+
+b291cb61-33c5-4bde-ab2e-c91404de758e-0
+00:03:09.360 --> 00:03:09.560
+OK.
+
+c475b9ef-73c5-4b10-8543-02776cce8e56-0
+00:03:09.560 --> 00:03:15.815
+So also for all of the deployment
+processes will be part of the yeah,
+
+c475b9ef-73c5-4b10-8543-02776cce8e56-1
+00:03:15.815 --> 00:03:17.960
+Delaware's process then.
+
+345d16c9-af5d-4c81-8bac-b659664f46c1-0
+00:03:17.960 --> 00:03:23.202
+So we also do the deployment from the dev
+environment to the UAT or the the test
+
+345d16c9-af5d-4c81-8bac-b659664f46c1-1
+00:03:23.202 --> 00:03:25.080
+environments, right, Exactly.
+
+18519b41-3f3d-46bb-b1b6-b2bb52dbba23-0
+00:03:25.840 --> 00:03:30.476
+OK, yes,
+So this is the usual process to give you
+
+18519b41-3f3d-46bb-b1b6-b2bb52dbba23-1
+00:03:30.476 --> 00:03:37.616
+an idea of the objects to give you an
+idea what objects are available in Bow
+
+18519b41-3f3d-46bb-b1b6-b2bb52dbba23-2
+00:03:37.616 --> 00:03:38.080
+Core.
+
+30604fa3-8cad-478e-826b-a8dd46ff4468-0
+00:03:38.640 --> 00:03:42.479
+Yes,
+Carina will show you the Salesforce
+
+30604fa3-8cad-478e-826b-a8dd46ff4468-1
+00:03:42.479 --> 00:03:50.252
+instance where you can see in the schema
+builder what are the objects and then she
+
+30604fa3-8cad-478e-826b-a8dd46ff4468-2
+00:03:50.252 --> 00:03:54.560
+will also explain where we have
+overlappings.
+
+ff7535d3-3d12-4455-b3fa-537a6c06491b-0
+00:03:55.360 --> 00:03:56.840
+OK, yes, right.
+
+670fa28f-6237-4bd2-8f80-802b5be45cc5-0
+00:03:57.080 --> 00:03:59.200
+So I will disable my mic.
+
+cfa935e0-961e-4f62-975d-d2305ab267d1-0
+00:04:00.520 --> 00:04:00.960
+Yes.
+
+3a6fd2aa-853a-4113-b94a-c2d2da439541-0
+00:04:03.240 --> 00:04:05.680
+OK, let me share my screen.
+
+e6bd3298-9852-4d99-9fa8-5a5564ea6b6b-0
+00:04:15.770 --> 00:04:25.480
+So just to give you quick overview you
+will have some new apps.
+
+984936dc-b62c-4402-9af9-22ba3d3f76c1-0
+00:04:26.360 --> 00:04:37.557
+So basically two which are named project
+1 is the console view and one is the
+
+984936dc-b62c-4402-9af9-22ba3d3f76c1-1
+00:04:37.557 --> 00:04:47.320
+standard view and and for all powerful
+settings for our department.
+
+9d2fa1b1-423c-4dad-8894-71c845c696e0-0
+00:04:49.400 --> 00:04:58.665
+And as you can see here,
+we have some custom objects,
+
+9d2fa1b1-423c-4dad-8894-71c845c696e0-1
+00:04:58.665 --> 00:05:08.960
+so support objects are connected with
+project participants.
+
+9de9643c-e16c-483a-ab28-6b0bb12c9f04-0
+00:05:10.640 --> 00:05:16.080
+So I'll give you a quick introduction.
+
+a80494ca-4697-429d-85e0-c62346fa2137-0
+00:05:16.080 --> 00:05:21.912
+We have participants,
+so every project can have one or more
+
+a80494ca-4697-429d-85e0-c62346fa2137-1
+00:05:21.912 --> 00:05:25.120
+participants linked to a project.
+
+11e8b3f0-2182-4d57-905b-bb4ba80b248a-0
+00:05:26.600 --> 00:05:35.099
+And from here you can see that the
+connection can be via account,
+
+11e8b3f0-2182-4d57-905b-bb4ba80b248a-1
+00:05:35.099 --> 00:05:37.160
+contact or lead.
+
+0d6ee9d9-0031-4700-87e3-d8c69402534e-0
+00:05:37.720 --> 00:05:48.565
+So we are using these three main standard
+objects for the connection from the
+
+0d6ee9d9-0031-4700-87e3-d8c69402534e-1
+00:05:48.565 --> 00:05:52.320
+participant to the project.
+
+81c07dfd-fdb3-4b93-9211-84d0ad83ca6f-0
+00:05:52.400 --> 00:05:57.480
+And this is the same for project main
+project and project lead.
+
+9dc086f5-a708-4639-a7fd-2a89c87133e8-0
+00:06:00.880 --> 00:06:05.460
+So you mean that this is where it
+actually overlaps with what we have set
+
+9dc086f5-a708-4639-a7fd-2a89c87133e8-1
+00:06:05.460 --> 00:06:06.080
+up, right?
+
+4bfc55f5-6102-485f-bab0-dac96ab5bcb0-0
+00:06:09.120 --> 00:06:10.440
+Sorry, can you repeat please?
+
+00858583-8017-4cde-bf38-6033127ef8c3-0
+00:06:10.440 --> 00:06:16.444
+I my So by showing this you mean that for
+these objects there actually is some
+
+00858583-8017-4cde-bf38-6033127ef8c3-1
+00:06:16.444 --> 00:06:19.560
+overlap with what we already have set up?
+
+3859cb8c-56d7-44ed-8ca2-5038bf1cc4d2-0
+00:06:21.440 --> 00:06:24.968
+Yes,
+because we're using lead contact and
+
+3859cb8c-56d7-44ed-8ca2-5038bf1cc4d2-1
+00:06:24.968 --> 00:06:25.640
+account.
+
+13aa0956-8b9d-4e6a-a8d6-f36a93d157ab-0
+00:06:25.640 --> 00:06:30.731
+And for this purpose,
+there will be some bulk for fields in
+
+13aa0956-8b9d-4e6a-a8d6-f36a93d157ab-1
+00:06:30.731 --> 00:06:31.920
+these objects.
+
+7883d9c6-e260-420b-bacb-d0e1dab3b4a8-0
+00:06:32.320 --> 00:06:33.280
+OK, yeah.
+
+75dac2db-9b40-4940-b53d-e30838dbe5a8-0
+00:06:33.280 --> 00:06:38.000
+But I suppose that those bulk or fields,
+they come with the package, correct?
+
+8ebd94a0-829a-4392-a5b2-ad0935c9da47-0
+00:06:38.360 --> 00:06:38.600
+Yeah.
+
+3c7e809e-e9de-4114-9153-e2216ddf9828-0
+00:06:39.600 --> 00:06:44.000
+And for instance,
+let's take the layout of of accounts.
+
+6d029115-2eff-46c5-9d1c-f599d30a0329-0
+00:06:44.440 --> 00:06:49.516
+I suppose that those fields they need to
+be added to the layout and or the
+
+6d029115-2eff-46c5-9d1c-f599d30a0329-1
+00:06:49.516 --> 00:06:51.480
+lighting page of the account.
+
+66be0b9b-309c-4b1f-ba16-e3fa35f0288b-0
+00:06:52.360 --> 00:06:56.425
+Same for the the related lists,
+for instance of the participants on the
+
+66be0b9b-309c-4b1f-ba16-e3fa35f0288b-1
+00:06:56.425 --> 00:06:57.160
+account page.
+
+110ee5ad-4853-4f51-bce4-58943f46c979-0
+00:06:57.160 --> 00:07:03.609
+Then are those pages something that is
+supplied by the package or should we keep
+
+110ee5ad-4853-4f51-bce4-58943f46c979-1
+00:07:03.609 --> 00:07:05.600
+using our existing pages?
+
+bc0f352c-09f3-42b7-bf18-4f9590cbd45c-0
+00:07:06.840 --> 00:07:13.082
+Yes, for account for example,
+there will be some additional fields,
+
+bc0f352c-09f3-42b7-bf18-4f9590cbd45c-1
+00:07:13.082 --> 00:07:18.040
+for example loyalty,
+performance and stuff like that.
+
+8ef1c469-3c93-49c4-9159-8671f724d79c-0
+00:07:18.880 --> 00:07:24.363
+We have also some components which can be
+added,
+
+8ef1c469-3c93-49c4-9159-8671f724d79c-1
+00:07:24.363 --> 00:07:28.840
+but there will be no new account layout.
+
+a975be0e-74b6-4146-bf92-4d17efcc1f6b-0
+00:07:29.480 --> 00:07:35.080
+You can add the components and fields to
+your existing layouts.
+
+c186b504-24f0-4352-a1d6-03c154c3f395-0
+00:07:37.240 --> 00:07:37.680
+What?
+
+7f04c53f-cda7-44d6-a633-f330ca264e6e-0
+00:07:37.680 --> 00:07:41.760
+What is important?
+
+8ae4bafe-31a6-4d95-95e6-acfe3e73d708-0
+00:07:42.240 --> 00:07:50.522
+All fields on the Balfour package won't
+be visible for users who do not have a
+
+8ae4bafe-31a6-4d95-95e6-acfe3e73d708-1
+00:07:50.522 --> 00:07:52.200
+Balfour license.
+
+2fdae011-fa8b-414d-a73e-981eb41646f5-0
+00:07:52.920 --> 00:07:56.160
+OK,
+so it does we we can use the same layout
+
+2fdae011-fa8b-414d-a73e-981eb41646f5-1
+00:07:56.160 --> 00:08:01.560
+and if people don't have access,
+it doesn't disrupt their existing layout.
+
+b61d4a67-2529-48c1-916b-4f44f7a6b860-0
+00:08:01.560 --> 00:08:04.560
+It's just as if that doesn't even exist,
+correct?
+
+61b98f7b-6195-4ab8-ab94-d8c69860acdb-0
+00:08:04.720 --> 00:08:04.960
+Yes.
+
+bb34deea-c9dc-40f0-9df7-f6f072ec4d84-0
+00:08:07.280 --> 00:08:07.760
+OK.
+
+bc881cd5-63ef-433a-91cf-5716d85baa7b-0
+00:08:12.400 --> 00:08:15.600
+Do we have more Karina which we need to
+respect?
+
+77afaaf9-6b01-4307-b41b-114625509524-0
+00:08:16.080 --> 00:08:20.053
+As far as I remember,
+it's on the account and for lead there is
+
+77afaaf9-6b01-4307-b41b-114625509524-1
+00:08:20.053 --> 00:08:22.040
+nothing as as far as I remember.
+
+8317af07-66b8-4351-ae3f-0c36b10a0b2c-0
+00:08:29.080 --> 00:08:39.523
+I think it it can have the participant
+related list here as well if you want to,
+
+8317af07-66b8-4351-ae3f-0c36b10a0b2c-1
+00:08:39.523 --> 00:08:43.520
+but it is it's always the same.
+
+fcc053b4-a736-439c-a355-ca2f9bef7e26-0
+00:08:43.520 --> 00:08:47.840
+You can add it to your existing layout if
+you want to.
+
+d68809b4-a8cf-4fff-8ca4-1fd5944afd34-0
+00:08:48.680 --> 00:08:51.671
+Yeah,
+that was indeed what I assumed that what
+
+d68809b4-a8cf-4fff-8ca4-1fd5944afd34-1
+00:08:51.671 --> 00:08:56.000
+we just discussed that it's applicable to
+all objects the same way.
+
+013d35f9-a5a6-4fd2-8b3a-51e0ca1c1820-0
+00:08:56.560 --> 00:09:01.120
+Yes, yes, OK, seems great.
+
+2e3b21b4-8ea2-4d69-8bd6-698bea013e55-0
+00:09:02.920 --> 00:09:06.624
+So this clear Karina,
+what's about opportunity because
+
+2e3b21b4-8ea2-4d69-8bd6-698bea013e55-1
+00:09:06.624 --> 00:09:10.800
+opportunity standard process they are
+already customizing it.
+
+ed09d5de-059d-4129-8cfb-b3668a84e0ed-0
+00:09:11.120 --> 00:09:14.640
+We also have some fields as I remember,
+don't we?
+
+b485f9ac-a25d-4ac2-a6be-4eadd4da7aae-0
+00:09:16.520 --> 00:09:16.920
+Yes.
+
+9ecac115-8eff-489d-9f94-46c58eb205d3-0
+00:09:28.130 --> 00:09:32.286
+So as you can see here,
+here are some some additional fields
+
+9ecac115-8eff-489d-9f94-46c58eb205d3-1
+00:09:32.286 --> 00:09:34.330
+coming with a bulk or package.
+
+95c5bc4c-7097-440b-8b33-f07bbf44941c-0
+00:09:41.920 --> 00:09:44.197
+Yes,
+I think you can choose if you want to
+
+95c5bc4c-7097-440b-8b33-f07bbf44941c-1
+00:09:44.197 --> 00:09:45.840
+have them on the layout or not.
+
+bf74125a-3ec8-43cb-9e07-ed5df4462a90-0
+00:09:47.120 --> 00:09:52.701
+And does Bow Core expect some things to
+be available in the standard setup of
+
+bf74125a-3ec8-43cb-9e07-ed5df4462a90-1
+00:09:52.701 --> 00:09:53.560
+opportunity?
+
+65a1180e-9616-43b0-87c5-9d6b1f09eb67-0
+00:09:53.560 --> 00:09:55.120
+Let's say the stages?
+
+06c995e4-8f78-48ce-bc3f-a57eedc4604a-0
+00:09:58.800 --> 00:10:05.119
+No, the stages can be, but as you,
+you need stages, yes,
+
+06c995e4-8f78-48ce-bc3f-a57eedc4604a-1
+00:10:05.119 --> 00:10:09.000
+but stage itself can be customized.
+
+b6cfa4fa-3e75-49de-af2d-8edc04d82b1f-0
+00:10:09.040 --> 00:10:09.720
+That's no problem.
+
+4155a032-aacb-4b3b-8306-242a553d7222-0
+00:10:10.880 --> 00:10:11.720
+So let's stay.
+
+cb2d8e4d-b7f4-4b99-8b98-a483b589f77c-0
+00:10:12.400 --> 00:10:14.280
+It's just, I'm just making things up now.
+
+b32ec04c-4bad-4de6-b351-eaeb1cbb6bca-0
+00:10:14.400 --> 00:10:16.923
+Now,
+but let's say if we don't have the
+
+b32ec04c-4bad-4de6-b351-eaeb1cbb6bca-1
+00:10:16.923 --> 00:10:20.961
+discovery phase or stage,
+it doesn't matter if we can configure
+
+b32ec04c-4bad-4de6-b351-eaeb1cbb6bca-2
+00:10:20.961 --> 00:10:22.160
+power core as well.
+
+b5828655-af48-4284-89ca-b5d04670503b-0
+00:10:22.160 --> 00:10:23.720
+So it doesn't need it.
+
+25a4ec06-b81e-47d0-a319-386c922de133-0
+00:10:23.960 --> 00:10:30.120
+But in OK, that's clear.
+
+92a800cc-945b-4ea2-a5fa-83102fad65af-0
+00:10:34.600 --> 00:10:38.720
+So you also don't supply anything
+additional to those objects.
+
+2b9f2ad4-6413-4be1-9a2c-7bb9e24d59ed-0
+00:10:38.720 --> 00:10:44.400
+It's not like you have a specific sales
+process or a record type opportunity.
+
+3a9924f2-f0bd-47fb-b257-95fd4a9dae00-0
+00:10:44.800 --> 00:10:52.518
+We can use the existing ones or we can,
+if we need it, create our own record type,
+
+3a9924f2-f0bd-47fb-b257-95fd4a9dae00-1
+00:10:52.518 --> 00:10:55.680
+for instance, project opportunity.
+
+b2856d7a-6358-4493-a9a1-f1d95f0773fa-0
+00:10:56.280 --> 00:11:02.848
+Yes, you can do this,
+but there will no record type come with
+
+b2856d7a-6358-4493-a9a1-f1d95f0773fa-1
+00:11:02.848 --> 00:11:04.120
+the package.
+
+60c278a1-1f28-4d18-862c-8d575a1b0f00-0
+00:11:06.120 --> 00:11:11.480
+So in the background there will be some
+some triggers and flows also.
+
+47f3a7e3-f13a-43ea-aa04-a37f1670bc6c-0
+00:11:12.600 --> 00:11:22.140
+But I think it will not affect your
+existing processes that we have those as
+
+47f3a7e3-f13a-43ea-aa04-a37f1670bc6c-1
+00:11:22.140 --> 00:11:22.760
+well.
+
+476e520d-9b4f-40f6-b1c1-c2fc96a21e01-0
+00:11:22.840 --> 00:11:27.549
+So I also assume that it should not
+conflict with what's set up in the
+
+476e520d-9b4f-40f6-b1c1-c2fc96a21e01-1
+00:11:27.549 --> 00:11:28.080
+package.
+
+e9b744bc-1d7c-4e1d-a02d-c696e507a443-0
+00:11:29.000 --> 00:11:30.800
+Yes, indeed, that's that, of course.
+
+ebe7cfc2-5a15-4d49-a4d0-228a8e86b9b7-0
+00:11:33.000 --> 00:11:33.240
+Yeah.
+
+2befe624-171f-40c9-b86b-e93a8053c660-0
+00:11:33.240 --> 00:11:38.360
+And I also assume that let's say that is
+some kind of conflict.
+
+73398623-f385-4514-852d-d7b72abd4d82-0
+00:11:39.880 --> 00:11:44.626
+I think then it will need to be solved on
+our end since, yeah,
+
+73398623-f385-4514-852d-d7b72abd4d82-1
+00:11:44.626 --> 00:11:48.920
+you are providing a package you don't
+have control over.
+
+b08dde75-33c6-49f1-81cb-5c3ba577ff77-0
+00:11:48.920 --> 00:11:51.231
+Yeah,
+you you can't modify the implementation
+
+b08dde75-33c6-49f1-81cb-5c3ba577ff77-1
+00:11:51.231 --> 00:11:52.840
+specifically for the ransom org.
+
+e7976839-0681-4c36-adb3-c484d8b0ac25-0
+00:11:53.320 --> 00:11:58.312
+We actually can because our
+implementation is custom developed on the
+
+e7976839-0681-4c36-adb3-c484d8b0ac25-1
+00:11:58.312 --> 00:11:59.240
+rent support.
+
+c19c6797-66a1-4431-9daf-1a792be49c52-0
+00:11:59.240 --> 00:12:04.806
+So I suppose if there would be any kind
+of conflicts that could be solved by by
+
+c19c6797-66a1-4431-9daf-1a792be49c52-1
+00:12:04.806 --> 00:12:07.520
+Delaware and not by the package, right?
+
+ef739a4b-4e0e-4e0c-9807-4b7dc6c5ab15-0
+00:12:08.400 --> 00:12:09.400
+Yes, yes.
+
+7d36dac2-2681-4466-96a7-fac517bd39e4-0
+00:12:10.120 --> 00:12:13.480
+But indeed we can't assume that that
+shouldn't be the case.
+
+c71f0cdd-c602-42bc-a633-a073d4d8feb5-0
+00:12:18.040 --> 00:12:20.240
+Yeah, but I saw some more things.
+
+afc9278e-11ac-473d-8ddc-eacbd3c76155-0
+00:12:20.240 --> 00:12:23.984
+So for instance,
+I see a field like do not override
+
+afc9278e-11ac-473d-8ddc-eacbd3c76155-1
+00:12:23.984 --> 00:12:24.560
+amounts.
+
+b3ff45d9-cf1b-4539-a3ca-82476e35a34b-0
+00:12:25.480 --> 00:12:30.081
+Just for your information,
+we will be using opportunity products as
+
+b3ff45d9-cf1b-4539-a3ca-82476e35a34b-1
+00:12:30.081 --> 00:12:34.140
+well that for instance,
+it will lock the opportunity amount
+
+b3ff45d9-cf1b-4539-a3ca-82476e35a34b-2
+00:12:34.140 --> 00:12:39.621
+because that's just standard sales force
+that doesn't conflict with the setup as
+
+b3ff45d9-cf1b-4539-a3ca-82476e35a34b-3
+00:12:39.621 --> 00:12:39.960
+well.
+
+9c2dacab-fe24-4c07-b476-75e265208e94-0
+00:12:42.240 --> 00:12:44.440
+No, it shouldn't be a problem.
+
+291139bc-1edc-4d89-945f-e52f2b954027-0
+00:12:44.440 --> 00:12:49.320
+We will also be using quotes,
+link standard quotes linked to
+
+291139bc-1edc-4d89-945f-e52f2b954027-1
+00:12:49.320 --> 00:12:50.440
+opportunities.
+
+0377ac9d-6cc3-430a-a2ad-8e27d771270c-0
+00:12:50.440 --> 00:12:53.080
+But I just mentioned it.
+
+093935de-3084-4bbf-a752-cb5e67df721a-0
+00:12:53.080 --> 00:12:58.560
+I also assume that that is OK,
+yes thing for orders.
+
+dfbf5523-da9f-4604-b829-84492fc3a35d-0
+00:13:01.000 --> 00:13:01.480
+OK.
+
+a7707d87-06e0-48f6-b4e2-c4540d592b73-0
+00:13:01.840 --> 00:13:09.607
+So my question is for sure you are going
+to create APDF correct the quoting itself,
+
+a7707d87-06e0-48f6-b4e2-c4540d592b73-1
+00:13:09.607 --> 00:13:16.080
+where will it happen on SAP or ERP or
+will this happen on Salesforce?
+
+717ba3e5-d6bd-4e1b-b4c0-809528544855-0
+00:13:17.360 --> 00:13:26.823
+So the the quoting tool itself it is a in
+ERP or even in a different system called
+
+717ba3e5-d6bd-4e1b-b4c0-809528544855-1
+00:13:26.823 --> 00:13:27.280
+Rio.
+
+c0154bc8-ffad-46e0-8b45-f665ebdfe99d-0
+00:13:27.600 --> 00:13:29.760
+So it won't happen in Salesforce itself.
+
+a1017bbe-9c75-424f-ba82-e5350206793a-0
+00:13:29.760 --> 00:13:35.600
+Salesforce just gets those records they
+get synced from the ERP to Salesforce.
+
+62dff32e-8ff8-4d6e-8e77-c8312c80fb37-0
+00:13:36.320 --> 00:13:38.240
+OK, OK.
+
+e1624923-7361-4128-9081-d05485a781e8-0
+00:13:38.240 --> 00:13:45.108
+This means in our part we are only using
+the existing opportunity in the context
+
+e1624923-7361-4128-9081-d05485a781e8-1
+00:13:45.108 --> 00:13:46.720
+of the the project.
+
+2741657b-6901-40a7-818f-958f76066990-0
+00:13:46.760 --> 00:13:47.200
+Yes.
+
+35854911-59f4-4de4-b6f1-ff953ddfbb3c-0
+00:13:47.200 --> 00:13:50.560
+And then that's exactly what I expected.
+
+eb13c413-ff9a-42d5-99bb-9c8df2949def-0
+00:13:50.560 --> 00:13:53.040
+So no big doing for us.
+
+f6a1f53d-16bf-47d8-8bf9-7640c0489614-0
+00:13:53.040 --> 00:13:58.080
+It's only process,
+process things which we have to clarify.
+
+124ecb9d-4646-493d-b432-91e228104350-0
+00:13:58.080 --> 00:14:02.166
+Maybe there is some flows,
+but I don't think that this will be a big
+
+124ecb9d-4646-493d-b432-91e228104350-1
+00:14:02.166 --> 00:14:02.640
+problem.
+
+954eaec5-444c-48c5-a5d5-b796d5dcba29-0
+00:14:03.160 --> 00:14:07.706
+Yes and yeah,
+I don't expect to to have big problems at
+
+954eaec5-444c-48c5-a5d5-b796d5dcba29-1
+00:14:07.706 --> 00:14:08.600
+this point.
+
+9cfb2b62-07d0-4bc4-9a4a-213d7a9b4cb3-0
+00:14:10.480 --> 00:14:13.267
+Yeah,
+maybe what is what could be included in
+
+9cfb2b62-07d0-4bc4-9a4a-213d7a9b4cb3-1
+00:14:13.267 --> 00:14:14.480
+your implementation.
+
+e5a34b57-3a9d-43ab-9ef6-7bc19c2c19e4-0
+00:14:14.480 --> 00:14:20.737
+I suppose that most of it is is a
+configuration of the package,
+
+e5a34b57-3a9d-43ab-9ef6-7bc19c2c19e4-1
+00:14:20.737 --> 00:14:22.400
+so probably yeah.
+
+05c1d9e2-68fd-4553-bfe4-0274725897bb-0
+00:14:22.720 --> 00:14:27.306
+Things that are already set up in the
+package or already be are available in
+
+05c1d9e2-68fd-4553-bfe4-0274725897bb-1
+00:14:27.306 --> 00:14:31.000
+the package that needs to be configured
+towards the needs of.
+
+812b61eb-8996-49d8-a032-d27f3d997e37-0
+00:14:31.000 --> 00:14:35.488
+For instance,
+Is it also possible that you will be
+
+812b61eb-8996-49d8-a032-d27f3d997e37-1
+00:14:35.488 --> 00:14:42.528
+adding additional record trigger flows or
+screen flows or even Apex codes by by
+
+812b61eb-8996-49d8-a032-d27f3d997e37-2
+00:14:42.528 --> 00:14:43.320
+standard?
+
+7645ce81-6eab-45a8-9aca-ceee54287e50-0
+00:14:43.440 --> 00:14:50.807
+Actually by standard this project,
+there is no package for creating flows or
+
+7645ce81-6eab-45a8-9aca-ceee54287e50-1
+00:14:50.807 --> 00:14:53.200
+or Apex code or anything.
+
+bf8f0aa9-ef68-4887-8448-af70b270bb29-0
+00:14:53.440 --> 00:14:55.040
+This would be a change request.
+
+0fbaa455-2015-4e74-a385-db0d35ac98ab-0
+00:14:55.040 --> 00:14:59.733
+And usually then I would talk to you
+because we don't want to cause any
+
+0fbaa455-2015-4e74-a385-db0d35ac98ab-1
+00:14:59.733 --> 00:15:00.320
+conflict.
+
+1684436e-24f7-4781-83d8-f9f31040b5c7-0
+00:15:01.440 --> 00:15:05.796
+Yes, so, so by standard,
+we will have workshops to understand the
+
+1684436e-24f7-4781-83d8-f9f31040b5c7-1
+00:15:05.796 --> 00:15:10.680
+sales process to see what possibilities
+do we have in Bow Core to set up.
+
+10e0aca6-ae4d-4a2a-93ca-b8128985ea74-0
+00:15:11.040 --> 00:15:13.483
+Yes,
+because Bow Core brings a lot of
+
+10e0aca6-ae4d-4a2a-93ca-b8128985ea74-1
+00:15:13.483 --> 00:15:17.149
+functionalities,
+but every customer decides what kind of
+
+10e0aca6-ae4d-4a2a-93ca-b8128985ea74-2
+00:15:17.149 --> 00:15:19.400
+functionalities is he going to use.
+
+5805b980-dc7d-465a-bc11-d9beff4ab915-0
+00:15:19.400 --> 00:15:22.640
+Yes, so, so that's the major part.
+
+0f65836b-bafb-49de-9a1c-d48efbe94276-0
+00:15:22.640 --> 00:15:28.880
+Yes, yes, so,
+so more communication and configuration.
+
+22cf104a-7825-4a3c-94e9-b7e8cb3cdeee-0
+00:15:30.680 --> 00:15:32.400
+Yeah, that's also what we expected.
+
+ac213b6d-ff89-46e8-bd30-8f6bc21e8c1b-0
+00:15:32.400 --> 00:15:33.680
+We just wanted to make sure.
+
+0927e653-7ae0-47e5-90d1-2930bb83c10a-0
+00:15:40.000 --> 00:15:41.760
+Yeah, OK, wait, maybe one more thing.
+
+a8f01c2f-2e4b-4aed-a529-ad71df86fe87-0
+00:15:41.840 --> 00:15:45.490
+You mentioned that you would supply a
+list of the things that need to be
+
+a8f01c2f-2e4b-4aed-a529-ad71df86fe87-1
+00:15:45.490 --> 00:15:46.640
+deployed, for instance.
+
+4b89602a-3e91-4e48-bb5a-f0c01004f1b3-0
+00:15:47.000 --> 00:15:55.283
+But yeah,
+I I assume that that will probably be
+
+4b89602a-3e91-4e48-bb5a-f0c01004f1b3-1
+00:15:55.283 --> 00:15:59.080
+things in the package.
+
+64dca0df-2a2d-4126-832c-42998d2f983c-0
+00:15:59.080 --> 00:16:02.630
+Then let's say there is a custom object
+in the package,
+
+64dca0df-2a2d-4126-832c-42998d2f983c-1
+00:16:02.630 --> 00:16:07.448
+let's say project exactly and you
+modified the layout and the lighting page
+
+64dca0df-2a2d-4126-832c-42998d2f983c-2
+00:16:07.448 --> 00:16:08.400
+of the project.
+
+f7522a9d-e8ad-4f4b-ae34-0833f89eab9a-0
+00:16:08.680 --> 00:16:14.332
+That's something that will then be in the
+list of metadata items that you supply,
+
+f7522a9d-e8ad-4f4b-ae34-0833f89eab9a-1
+00:16:14.332 --> 00:16:18.400
+that of things that need to be included
+in the deployment.
+
+0a8b2151-0d85-47a4-9e7d-2fffc68c9e85-0
+00:16:18.480 --> 00:16:20.200
+Exactly this is the way.
+
+0344d232-8112-4ca9-94ce-2cbd854fcb99-0
+00:16:20.800 --> 00:16:24.927
+Karina,
+can you give us show us in the schema
+
+0344d232-8112-4ca9-94ce-2cbd854fcb99-1
+00:16:24.927 --> 00:16:30.760
+builder the the important objects,
+how they are linked together?
+
+d4b19ebe-cafd-4455-a5d5-b064d2c03bfb-0
+00:16:30.760 --> 00:16:34.400
+Because this is mostly a good idea to to
+see it.
+
+b27248c3-098f-4ebd-8c75-369b36efd424-0
+00:16:34.720 --> 00:16:40.662
+Then you will easily see that the most
+part will happen on because the quoting
+
+b27248c3-098f-4ebd-8c75-369b36efd424-1
+00:16:40.662 --> 00:16:46.680
+you already decide to do it with products
+and and quotation sales for standard.
+
+6c4582d7-dca3-41e5-9e14-f5a5504d04b5-0
+00:16:47.120 --> 00:16:50.160
+We have an own project quote.
+
+8dbf6b41-e175-4992-85fd-2ecd5c30332b-0
+00:16:50.160 --> 00:16:54.753
+But this doesn't make any sense as soon
+as you have already decided to use the
+
+8dbf6b41-e175-4992-85fd-2ecd5c30332b-1
+00:16:54.753 --> 00:16:55.800
+standard way, yes.
+
+51ffbea2-d4be-4016-bc99-05c7efd2c5d7-0
+00:16:56.200 --> 00:17:01.486
+So so that means this object will not be
+used because you decided that already in
+
+51ffbea2-d4be-4016-bc99-05c7efd2c5d7-1
+00:17:01.486 --> 00:17:02.840
+the opportunity, yes.
+
+c8752f51-f29a-45e8-970e-5427bbd22840-0
+00:17:03.040 --> 00:17:10.115
+So if we have a look on if you just clear
+all and show project direct lead, yes,
+
+c8752f51-f29a-45e8-970e-5427bbd22840-1
+00:17:10.115 --> 00:17:11.600
+participant, yes.
+
+2e64be7c-aaa7-4dd2-a938-9adc24312000-0
+00:17:11.600 --> 00:17:17.240
+So you see IBS brings a lot of of objects,
+but we don't need all of them.
+
+804b757d-a051-4da5-a772-350e66066856-0
+00:17:17.320 --> 00:17:20.680
+It depends on exactly what is your
+standard process.
+
+54590e0d-46f3-4023-96cb-50f57c30283d-0
+00:17:20.680 --> 00:17:26.009
+And because most of the people are
+already working with opportunity,
+
+54590e0d-46f3-4023-96cb-50f57c30283d-1
+00:17:26.009 --> 00:17:31.880
+it makes sense to have only these people
+to to do the project organization.
+
+fbbda9cc-357d-4b95-981b-4edb95b2400a-0
+00:17:32.560 --> 00:17:34.400
+Yes, and to follow projects.
+
+058ec086-a823-47fe-8f27-f8dda4a6b869-0
+00:17:34.400 --> 00:17:36.400
+Because you have two different sales
+teams.
+
+74be7cfc-0bd6-4de6-8b7b-cef8ddc9e2e3-0
+00:17:36.400 --> 00:17:41.807
+One team is following opportunities and
+and or the major team is following
+
+74be7cfc-0bd6-4de6-8b7b-cef8ddc9e2e3-1
+00:17:41.807 --> 00:17:47.360
+opportunities one to one sales and the
+other one is doing the project scope.
+
+bb7fb6bc-3d59-47c1-8bde-cd1b2bab4fe3-0
+00:17:47.680 --> 00:17:50.697
+Yes,
+to control what has to happen when and
+
+bb7fb6bc-3d59-47c1-8bde-cd1b2bab4fe3-1
+00:17:50.697 --> 00:17:51.040
+what.
+
+dfce51dc-7cc6-4644-a712-e24fd8a57d7c-0
+00:17:51.360 --> 00:17:53.600
+And this is exactly what we are talking
+about.
+
+1c02b56e-178f-4931-8150-3933ce9cf073-0
+00:17:53.600 --> 00:17:57.571
+So it means, yes, you get project leads,
+yes,
+
+1c02b56e-178f-4931-8150-3933ce9cf073-1
+00:17:57.571 --> 00:18:02.320
+which you identify and then you have the
+participants.
+
+e133bcb2-66d9-4383-8d6a-d7ac7babb4e4-0
+00:18:02.320 --> 00:18:05.691
+The participants are the rules which you
+which you follow,
+
+e133bcb2-66d9-4383-8d6a-d7ac7babb4e4-1
+00:18:05.691 --> 00:18:08.720
+which you already saw in the Salesforce
+screen, Yes.
+
+28948198-a745-49b1-8153-f0eb8ef917f2-0
+00:18:08.720 --> 00:18:13.244
+And according to these you can have a lot,
+we have a lot of different components
+
+28948198-a745-49b1-8153-f0eb8ef917f2-1
+00:18:13.244 --> 00:18:14.920
+which will be configured, yes.
+
+f55b1a02-4e04-40d0-abae-38e71306f8e3-0
+00:18:14.920 --> 00:18:20.520
+But these configuration shouldn't touch
+most of of your processes.
+
+d731c9d9-ad75-4b61-a9a9-d27da74f8dba-0
+00:18:20.520 --> 00:18:21.320
+I don't expect.
+
+7dc4beda-3a69-4ce7-bfa0-ab455de4e55c-0
+00:18:21.320 --> 00:18:24.908
+And if it would,
+I would contact you immediately to tell
+
+7dc4beda-3a69-4ce7-bfa0-ab455de4e55c-1
+00:18:24.908 --> 00:18:28.120
+you here is something what needs to be
+customized.
+
+dd8be3c0-3114-483d-9b43-4bf55037ca90-0
+00:18:29.120 --> 00:18:32.040
+OK, yes, make sense.
+
+36ee1143-66f1-4030-b1ca-b307c9acbf42-0
+00:18:32.640 --> 00:18:35.680
+Yes, totally, yes.
+
+ee1faa9d-97ad-4c48-b8e3-c6e2f7d2dc50-0
+00:18:36.200 --> 00:18:42.285
+So these are the major objects which we
+are going to use and what we are going to
+
+ee1faa9d-97ad-4c48-b8e3-c6e2f7d2dc50-1
+00:18:42.285 --> 00:18:47.480
+to customize and to talk about and to
+activate all process around it.
+
+0cad1759-f068-4753-899b-11f198da8015-0
+00:18:47.960 --> 00:18:48.320
+Yes.
+
+262764f7-d928-4868-9cc0-e411592b2922-0
+00:18:51.400 --> 00:18:56.822
+So I was just wondering for instance,
+what what could be in the list of things
+
+262764f7-d928-4868-9cc0-e411592b2922-1
+00:18:56.822 --> 00:19:02.312
+that we need to deploy as I expect most
+of it being components that are already
+
+262764f7-d928-4868-9cc0-e411592b2922-2
+00:19:02.312 --> 00:19:06.911
+supplied in the package,
+but are still modifiable in the target or
+
+262764f7-d928-4868-9cc0-e411592b2922-3
+00:19:06.911 --> 00:19:10.000
+so let's say a layout, for instance,
+layout.
+
+ebeb4342-762b-4e5a-b466-915c5d5da5c6-0
+00:19:11.080 --> 00:19:15.200
+I also suppose that yeah,
+most of it will come with the package.
+
+a5837296-df47-455f-aeaf-07e3a7356475-0
+00:19:15.200 --> 00:19:20.598
+So let's say you have a custom Lightning
+Web components on several objects,
+
+a5837296-df47-455f-aeaf-07e3a7356475-1
+00:19:20.598 --> 00:19:26.210
+yet those will be supplied automatically
+by the package installed on QA and on
+
+a5837296-df47-455f-aeaf-07e3a7356475-2
+00:19:26.210 --> 00:19:27.560
+production as well.
+
+380cb6c0-2a4e-4eab-9e14-255b35f621f5-0
+00:19:27.720 --> 00:19:31.543
+That won't be in the list,
+since it cannot be customized in the in
+
+380cb6c0-2a4e-4eab-9e14-255b35f621f5-1
+00:19:31.543 --> 00:19:32.400
+the target org.
+
+28f3da84-12a6-4024-b0fe-96727c1d4368-0
+00:19:33.000 --> 00:19:37.542
+So it will probably only be a list of
+things that are already supplied by the
+
+28f3da84-12a6-4024-b0fe-96727c1d4368-1
+00:19:37.542 --> 00:19:40.920
+package but are still to be customized in
+the target org.
+
+06465106-92c3-476e-b79e-359e794095a3-0
+00:19:41.360 --> 00:19:47.242
+And it's probably not including any of
+the existing objects which have already
+
+06465106-92c3-476e-b79e-359e794095a3-1
+00:19:47.242 --> 00:19:50.294
+been set up,
+since we will be adding the
+
+06465106-92c3-476e-b79e-359e794095a3-2
+00:19:50.294 --> 00:19:53.720
+customizations to those objects if
+necessary.
+
+57ee3efb-cda7-41f3-a901-9444d64b0ec2-0
+00:19:53.880 --> 00:19:56.686
+For instance,
+adding an additional fields to the layout
+
+57ee3efb-cda7-41f3-a901-9444d64b0ec2-1
+00:19:56.686 --> 00:19:58.440
+or adding additional related lists.
+
+4fe15ed9-cc99-4e0c-b46b-d7cd022e8f6d-0
+00:19:58.840 --> 00:20:04.667
+That is something that you will ask to us
+to do after the installation is done or
+
+4fe15ed9-cc99-4e0c-b46b-d7cd022e8f6d-1
+00:20:04.667 --> 00:20:06.160
+after the deployment.
+
+bfdc9c41-ca70-41a7-bc1b-69b51a74fda1-0
+00:20:06.160 --> 00:20:08.640
+The installation and deployment is done,
+right?
+
+4fe0d036-2750-486e-8a4f-3ec77474c06c-0
+00:20:09.160 --> 00:20:10.160
+Is that a good summary?
+
+fef9aba6-4bc1-4a9e-aa01-28df7ff69db5-0
+00:20:10.640 --> 00:20:11.000
+Correct.
+
+526f393b-986c-48be-8b7b-2a6b830a63f3-0
+00:20:11.240 --> 00:20:11.600
+Correct.
+
+b179b07e-9a31-445b-893f-f9bdeca90ee4-0
+00:20:11.680 --> 00:20:14.400
+Most of it is processes around.
+
+31c931ac-08b3-46a7-b152-e3b01dfd7216-0
+00:20:15.680 --> 00:20:19.653
+Project, yes,
+which we customise and maybe we need also
+
+31c931ac-08b3-46a7-b152-e3b01dfd7216-1
+00:20:19.653 --> 00:20:22.916
+some,
+some records which needs to be imported
+
+31c931ac-08b3-46a7-b152-e3b01dfd7216-2
+00:20:22.916 --> 00:20:28.450
+to the different arcs because we have
+special traffic lights to to lead sales
+
+31c931ac-08b3-46a7-b152-e3b01dfd7216-3
+00:20:28.450 --> 00:20:29.159
+processes.
+
+98ec23b7-6c1e-4220-affc-6604516434e2-0
+00:20:29.160 --> 00:20:34.088
+But these are records not,
+not components and not fields, yes,
+
+98ec23b7-6c1e-4220-affc-6604516434e2-1
+00:20:34.088 --> 00:20:36.200
+which we will then provide.
+
+96b302a9-5908-437f-ae48-c772300c6328-0
+00:20:36.560 --> 00:20:41.938
+And yes, things like this, most of it yes,
+as you said before,
+
+96b302a9-5908-437f-ae48-c772300c6328-1
+00:20:41.938 --> 00:20:49.023
+yes around be handling the data migration
+of those records the Delaware or or this
+
+96b302a9-5908-437f-ae48-c772300c6328-2
+00:20:49.023 --> 00:20:50.560
+is not a big deal.
+
+c80d0e73-9a17-4087-aef2-3530a90e5b4c-0
+00:20:50.560 --> 00:20:54.400
+This is things we can do immediately
+won't touch anything.
+
+f80565f0-4957-4ba0-b028-549d6beae70c-0
+00:20:54.400 --> 00:20:57.762
+We will tell you, we will tell you,
+and then yes,
+
+f80565f0-4957-4ba0-b028-549d6beae70c-1
+00:20:57.762 --> 00:21:02.000
+you tell us when it is possible, yes,
+and then we can do that.
+
+87d21f9e-657d-4b36-b5fc-2b90f8532989-0
+00:21:05.760 --> 00:21:06.240
+OK.
+
+a6b9ed31-06c4-42c8-8435-d01021544773-0
+00:21:10.720 --> 00:21:17.389
+Also you will need to be up and of course
+on any environment that you need to set
+
+a6b9ed31-06c4-42c8-8435-d01021544773-1
+00:21:17.389 --> 00:21:18.040
+up, yes.
+
+edc0ce57-11f6-4475-9ec1-e97ce6e67827-0
+00:21:20.680 --> 00:21:22.440
+So nothing special at this point.
+
+50594f09-f276-4c9b-92d1-e6ad37f4cac5-0
+00:21:26.360 --> 00:21:30.911
+I was just just thinking we,
+if you are the System Administrator,
+
+50594f09-f276-4c9b-92d1-e6ad37f4cac5-1
+00:21:30.911 --> 00:21:35.463
+you can make any change,
+but we will just have the agreement that
+
+50594f09-f276-4c9b-92d1-e6ad37f4cac5-2
+00:21:35.463 --> 00:21:38.359
+you only touch the objects of the package.
+
+1b95458f-9fea-4c6d-a3a6-83a29c4ff172-0
+00:21:38.720 --> 00:21:43.972
+Formally yes,
+but we will not touch anything,
+
+1b95458f-9fea-4c6d-a3a6-83a29c4ff172-1
+00:21:43.972 --> 00:21:50.480
+especially not in production before we
+communicate, Yes.
+
+6665fcb6-6c83-4b01-bbcd-ed27a3067655-0
+00:21:57.080 --> 00:21:57.240
+Yep.
+
+42b975b2-18b4-42e3-845b-28cb0d057f2b-0
+00:21:57.360 --> 00:21:59.320
+For me it's it's clear.
+
+4521a502-167e-4c27-b343-103459d9d89e-0
+00:22:01.120 --> 00:22:06.943
+Not sure if you have any further
+questions or anything else you expect
+
+4521a502-167e-4c27-b343-103459d9d89e-1
+00:22:06.943 --> 00:22:09.240
+from our side at this point.
+
+967a8702-bb5f-412c-8ef9-98fc534137ed-0
+00:22:11.760 --> 00:22:12.560
+In my opinion.
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-0
+00:22:13.080 --> 00:22:16.347
+In my opinion,
+as soon as we finish the workshops,
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-1
+00:22:16.347 --> 00:22:20.384
+yes and we know what is this called,
+what needs to be changed,
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-2
+00:22:20.384 --> 00:22:25.766
+I will immediately identify where we will
+have touch points and then I will contact
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-3
+00:22:25.766 --> 00:22:29.674
+you and then I will also tell you what is
+the time schedule,
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-4
+00:22:29.674 --> 00:22:34.736
+when do we expect to finish and what are
+the next steps because it needs to be
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-5
+00:22:34.736 --> 00:22:39.477
+fitting to your plan because you are
+optimizing the Go Life plan Yes, so,
+
+f931f7d0-43fb-4d07-8776-e96aefda5c7e-6
+00:22:39.477 --> 00:22:41.400
+so it has to fit all together.
+
+8ee86e06-15f5-4dd2-8def-99bfdc704b09-0
+00:22:42.680 --> 00:22:43.440
+OK, great.
+
+141c4702-abf6-4e64-80dd-43a0bb7508d1-0
+00:22:47.040 --> 00:22:48.840
+As we imagine so.
+
+f210ed54-db3c-44dc-9da8-d33642f778d6-0
+00:22:54.440 --> 00:22:57.240
+Cancel out, cancel out.
+
+b11c821c-2e98-4cca-a491-9b962f0f2fc7-0
+00:22:59.680 --> 00:23:04.694
+I had my questions regarding how it would
+actually work together,
+
+b11c821c-2e98-4cca-a491-9b962f0f2fc7-1
+00:23:04.694 --> 00:23:08.113
+but let's say how we discussed it right
+now,
+
+b11c821c-2e98-4cca-a491-9b962f0f2fc7-2
+00:23:08.113 --> 00:23:13.279
+it's totally makes sense and it's great
+if you can do it like that.
+
+0513b7f4-9ecc-43bb-ba85-2ce3538bba9b-0
+00:23:14.440 --> 00:23:15.600
+Yes, thank you very much.
+
+3de9538a-8e16-49cb-84de-fc4d89fecb65-0
+00:23:16.480 --> 00:23:16.760
+Yes.
+
+a1e3ac57-4038-4c51-8119-911d720279df-0
+00:23:17.320 --> 00:23:22.045
+What we will do is we will,
+we can already provide you the dev
+
+a1e3ac57-4038-4c51-8119-911d720279df-1
+00:23:22.045 --> 00:23:27.520
+environment and we'll discuss the,
+the timeline and the release schedule
+
+a1e3ac57-4038-4c51-8119-911d720279df-2
+00:23:27.520 --> 00:23:28.720
+with Ransom 1st.
+
+e22bb1c7-7103-4a2d-9d10-e0a2950b64fc-0
+00:23:29.040 --> 00:23:34.520
+And then if that's clear, we can yeah,
+communicate with you as well.
+
+c57d12ec-88ac-4a0d-ac6d-da4e628bf426-0
+00:23:34.680 --> 00:23:39.575
+And then we can also check which
+environment to use,
+
+c57d12ec-88ac-4a0d-ac6d-da4e628bf426-1
+00:23:39.575 --> 00:23:47.241
+if we will use the shared environment or
+if we would still opt for a separate test
+
+c57d12ec-88ac-4a0d-ac6d-da4e628bf426-2
+00:23:47.241 --> 00:23:54.168
+environment for Boucore just because it
+is actually related to the release
+
+c57d12ec-88ac-4a0d-ac6d-da4e628bf426-3
+00:23:54.168 --> 00:23:54.999
+schedule.
+
+f82a3330-dc34-4d3d-8f19-ed428f93d955-0
+00:23:56.080 --> 00:24:00.599
+For instance,
+if we release Boucor already to the SQA
+
+f82a3330-dc34-4d3d-8f19-ed428f93d955-1
+00:24:00.599 --> 00:24:05.118
+environment,
+then typically we should also move it to
+
+f82a3330-dc34-4d3d-8f19-ed428f93d955-2
+00:24:05.118 --> 00:24:07.879
+production with our next release.
+
+d8ff300f-8965-467a-b0bb-c52d3f286ea0-0
+00:24:08.680 --> 00:24:12.981
+If we can do that,
+then it is OK maybe to use the same
+
+d8ff300f-8965-467a-b0bb-c52d3f286ea0-1
+00:24:12.981 --> 00:24:13.920
+environment.
+
+df49dab4-4a55-4752-9aca-0b65445a1494-0
+00:24:13.920 --> 00:24:18.773
+But I think it's not actually clear if we
+if we will be doing that,
+
+df49dab4-4a55-4752-9aca-0b65445a1494-1
+00:24:18.773 --> 00:24:21.200
+if that fits the schedule as well.
+
+f968e14a-fa81-4945-9c47-21cac48b0ce3-0
+00:24:21.200 --> 00:24:26.190
+So I think we first need to look at the
+schedule when we see the different
+
+f968e14a-fa81-4945-9c47-21cac48b0ce3-1
+00:24:26.190 --> 00:24:31.514
+releases from Salesforce itself and from
+Balcord and then how they fit together
+
+f968e14a-fa81-4945-9c47-21cac48b0ce3-2
+00:24:31.514 --> 00:24:35.640
+and see we should arrange the
+environments then support that.
+
+9b9eeba0-aca3-432b-912c-55ff88d7b2fc-0
+00:24:36.640 --> 00:24:41.000
+OK, OK, that's fine.
+
+fd24819e-b0c2-4641-9fce-e3d634596c2b-0
+00:24:41.160 --> 00:24:41.400
+Yes.
+
+c4e27ace-1aeb-4cb0-9ee2-8c5726d7f7f0-0
+00:24:41.400 --> 00:24:43.080
+So communication, no problem.
+
+18bff1cf-373f-4dce-9451-0902ff261a0b-0
+00:24:43.880 --> 00:24:44.320
+Yes.
+
+861286c2-f9d0-425a-a856-21a6610f14be-0
+00:24:44.880 --> 00:24:48.002
+So Neil,
+I send you already this morning a lot of
+
+861286c2-f9d0-425a-a856-21a6610f14be-1
+00:24:48.002 --> 00:24:48.440
+emails.
+
+83b8b078-e403-45f4-99d6-a81f713e0c69-0
+00:24:50.520 --> 00:24:51.200
+I received them.
+
+4bafdff9-6aa0-4429-ab63-78c6d8b82b60-0
+00:24:51.200 --> 00:24:54.655
+Yeah, I,
+I have not yet the time to detect it,
+
+4bafdff9-6aa0-4429-ab63-78c6d8b82b60-1
+00:24:54.655 --> 00:24:59.360
+but it's an overview of all the meetings
+that you want to plan.
+
+4e1fe95f-f834-4528-abe9-b2397c3b5d98-0
+00:24:59.600 --> 00:25:04.460
+So I will check the timing as well here
+internally and then send the invitations
+
+4e1fe95f-f834-4528-abe9-b2397c3b5d98-1
+00:25:04.460 --> 00:25:08.480
+and then for leaving it,
+so it becomes clear when we will do what.
+
+498044ed-5839-4577-b7ed-8b755e896820-0
+00:25:08.480 --> 00:25:10.880
+So that will help as well.
+
+314f2c62-41d9-47b6-9462-898dd7060d60-0
+00:25:11.760 --> 00:25:19.415
+Maybe one more question,
+if we would or propose that we do the bow
+
+314f2c62-41d9-47b6-9462-898dd7060d60-1
+00:25:19.415 --> 00:25:28.212
+core testing separately from the current
+QA environment that Anson is using,
+
+314f2c62-41d9-47b6-9462-898dd7060d60-2
+00:25:28.212 --> 00:25:33.240
+would you then need DEF and a test
+sandbox?
+
+80ff9c64-2cb0-47ad-a7df-1fa30e6db9c3-0
+00:25:33.240 --> 00:25:37.845
+Or could we then just reuse the dev
+sandbox that you have already set up as
+
+80ff9c64-2cb0-47ad-a7df-1fa30e6db9c3-1
+00:25:37.845 --> 00:25:39.360
+the test sandbox as well?
+
+d0a048b7-21be-4212-a17e-4c7ae11c9da8-0
+00:25:40.040 --> 00:25:42.280
+Not stating it as a good idea,
+it's up to you.
+
+c7f208ad-4f4b-443c-b285-8332a4ae9bbe-0
+00:25:42.400 --> 00:25:49.720
+It's just a question on a decision you
+can make, but possible.
+
+588ca129-170b-4b0e-8679-95f64c8113e3-0
+00:25:49.720 --> 00:25:52.960
+But you know,
+deaf sandboxes have a special problem.
+
+02c425a1-6bf1-4267-bd3e-e7ed921d05e0-0
+00:25:53.800 --> 00:25:56.720
+Yes, to load data, Data storage.
+
+f0154854-aea7-4a08-81b0-64ef62a47919-0
+00:25:56.720 --> 00:26:01.093
+Data storage is mostly the big problem,
+because if you want to make good testing,
+
+f0154854-aea7-4a08-81b0-64ef62a47919-1
+00:26:01.093 --> 00:26:01.680
+you should.
+
+0e6fe6ec-5bee-4702-9e06-95409fa8efc9-0
+00:26:01.720 --> 00:26:08.597
+You should at least every user should
+create at least 56710 testing records to
+
+0e6fe6ec-5bee-4702-9e06-95409fa8efc9-1
+00:26:08.597 --> 00:26:13.560
+to be sure that the processes are working
+like expected.
+
+d90f2c0d-e40f-4f1e-93a1-e1635fb27da0-0
+00:26:13.560 --> 00:26:18.275
+Of course I can do that also on on a def
+sandbox,
+
+d90f2c0d-e40f-4f1e-93a1-e1635fb27da0-1
+00:26:18.275 --> 00:26:23.840
+but in my experience mostly not a good
+idea, not best fit.
+
+4fda6a20-dff9-428d-8be1-d70d2b283090-0
+00:26:25.600 --> 00:26:28.465
+Yes,
+especially if you will have already
+
+4fda6a20-dff9-428d-8be1-d70d2b283090-1
+00:26:28.465 --> 00:26:34.197
+finished opportunities with testing data,
+then the project is is on top of it and
+
+4fda6a20-dff9-428d-8be1-d70d2b283090-2
+00:26:34.197 --> 00:26:39.440
+then you will have you know you will have
+a lot of opportunities below it.
+
+8e22a04a-31a4-4c41-a48d-e163bab3c5e2-0
+00:26:39.440 --> 00:26:43.000
+Then you can also see exactly what is
+happening.
+
+abcefef8-0fa6-403e-9a0a-a8cb38c3ed59-0
+00:26:43.000 --> 00:26:47.040
+If I change the status,
+what is being reflected?
+
+fb4867e8-d55c-410a-b029-cb221491caa0-0
+00:26:47.040 --> 00:26:50.240
+Are the numbers being reflected correct
+on the top?
+
+28093ff3-1b1c-4ee2-ae28-cec327524bae-0
+00:26:50.520 --> 00:26:51.320
+Can we?
+
+5b6f3de4-fdd7-4ff3-89b6-4f2d90f5bab7-0
+00:26:51.320 --> 00:26:53.640
+Can we do a correct communication?
+
+199fa25b-5b1b-4f80-9fe9-8c0098d6b2c6-0
+00:26:53.640 --> 00:26:55.600
+Can we assign tasks between?
+
+bdff5fe1-17a1-412c-aa90-9735180f4886-0
+00:26:55.920 --> 00:26:59.240
+This is all on a def sandbox.
+
+60218db9-0d38-4bec-bec2-341abf002228-0
+00:26:59.360 --> 00:27:01.520
+Possible but not optimal.
+
+05d24717-af9c-4bce-888a-f741b74dbf88-0
+00:27:02.480 --> 00:27:16.670
+Yes, yes, maybe.
+
+56e15f6f-928d-44ad-bd04-a22f9b4b105a-0
+00:27:16.670 --> 00:27:17.910
+Can I share my screen?
+
+45fd396d-a221-47a1-a143-fbdf4fd63391-0
+00:27:18.030 --> 00:27:19.190
+Yes, please welcome.
+
+d969bd69-13a2-4d73-bc7a-f58dc4b4b257-0
+00:27:22.720 --> 00:27:32.281
+Just looking at what we currently have
+available ransom, OK, I see that we, yeah,
+
+d969bd69-13a2-4d73-bc7a-f58dc4b4b257-1
+00:27:32.281 --> 00:27:40.560
+we actually have full copy sandboxes
+available which we don't use, OK.
+
+4ff85968-8543-4f55-9934-5fe3665c17c0-0
+00:27:45.680 --> 00:27:48.691
+So we could think about maybe using one
+of those,
+
+4ff85968-8543-4f55-9934-5fe3665c17c0-1
+00:27:48.691 --> 00:27:50.920
+but not sure if that's the best idea.
+
+121cdde2-e392-4767-bd88-10b3a1b5c0ae-0
+00:27:50.920 --> 00:27:54.221
+But anyway,
+it is available because the current
+
+121cdde2-e392-4767-bd88-10b3a1b5c0ae-1
+00:27:54.221 --> 00:27:59.655
+partial complete is in use and that's the
+current QA environment which we will
+
+121cdde2-e392-4767-bd88-10b3a1b5c0ae-2
+00:27:59.655 --> 00:28:03.920
+still be using as our test environment
+that we cannot change.
+
+3953a2ac-a280-40ca-9f5a-6945d0eeaeab-0
+00:28:03.920 --> 00:28:09.000
+And we can check whether or not we can be
+using it for the testing as well.
+
+9d0c1a41-8bce-43d4-8604-07ee49e7fdac-0
+00:28:09.560 --> 00:28:12.823
+And then next to that,
+the only thing we have available is the
+
+9d0c1a41-8bce-43d4-8604-07ee49e7fdac-1
+00:28:12.823 --> 00:28:15.880
+developer sandboxes and those indeed have
+a lower storage.
+
+4869cb3b-61aa-401c-bbcb-0bccd9f08821-0
+00:28:16.600 --> 00:28:21.765
+So maybe that's not ideal for your
+testing exactly because don't forget the
+
+4869cb3b-61aa-401c-bbcb-0bccd9f08821-1
+00:28:21.765 --> 00:28:26.999
+important part is you are doing the sales
+process with the opportunities and
+
+4869cb3b-61aa-401c-bbcb-0bccd9f08821-2
+00:28:26.999 --> 00:28:31.145
+somebody who's managing the project,
+he will he wants to to,
+
+4869cb3b-61aa-401c-bbcb-0bccd9f08821-3
+00:28:31.145 --> 00:28:36.378
+to see the the opportunities below the
+projects, yes, to organise them, yes,
+
+4869cb3b-61aa-401c-bbcb-0bccd9f08821-4
+00:28:36.378 --> 00:28:41.680
+to define what is the opportunity we are
+going to push more or whatever, yes.
+
+6aa4f44f-98e5-425f-a23c-0e5a590b96b7-0
+00:28:41.880 --> 00:28:46.466
+So if if you also has to create
+opportunity records,
+
+6aa4f44f-98e5-425f-a23c-0e5a590b96b7-1
+00:28:46.466 --> 00:28:51.400
+then at least 5 to 10 opportunities below
+every project.
+
+91690bd9-9324-469f-a85a-5df4e1928357-0
+00:28:51.400 --> 00:28:54.490
+So,
+so you will have to create a lot of
+
+91690bd9-9324-469f-a85a-5df4e1928357-1
+00:28:54.490 --> 00:29:00.361
+opportunity data and therefore it is
+important to have already the complete
+
+91690bd9-9324-469f-a85a-5df4e1928357-2
+00:29:00.361 --> 00:29:03.760
+scope of your opportunities in the
+sandbox.
+
+5f8835b9-07b7-474c-bec0-38b916bf3c83-0
+00:29:03.920 --> 00:29:07.600
+So yes, so the process is complete, yes.
+
+862efc6f-83f1-47ef-a295-05da0c9fe6d9-0
+00:29:07.680 --> 00:29:12.440
+Doesn't make sense if he's not the person
+who's creating opportunities.
+
+a88c32a7-f461-4c21-88ff-8ca7570d4e68-0
+00:29:12.600 --> 00:29:17.176
+But you should observe them,
+track them and not possible to test that
+
+a88c32a7-f461-4c21-88ff-8ca7570d4e68-1
+00:29:17.176 --> 00:29:18.680
+in real time, you know.
+
+d51c1c82-4730-4de3-98d9-d224bccfbb2f-0
+00:29:20.040 --> 00:29:22.170
+Yeah,
+I certainly understand that this is not
+
+d51c1c82-4730-4de3-98d9-d224bccfbb2f-1
+00:29:22.170 --> 00:29:22.680
+sufficient.
+
+370a1b05-605d-491d-a875-764653595f49-0
+00:29:22.680 --> 00:29:26.800
+So I was just looking at, OK,
+if we cannot use this, what can we use?
+
+50a1d026-509d-4993-b842-5dc37b25af38-0
+00:29:27.080 --> 00:29:29.890
+We can use this one,
+but then it is shared because it's the
+
+50a1d026-509d-4993-b842-5dc37b25af38-1
+00:29:29.890 --> 00:29:30.640
+current sandbox.
+
+f3afc65f-8cd3-4ad8-aafd-e47290cc3513-0
+00:29:30.960 --> 00:29:36.920
+Or we could opt for using the full as a
+separate environment possibly.
+
+1b4449f6-4d34-4b36-abe2-180ffeb139fb-0
+00:29:38.120 --> 00:29:39.200
+Yeah, we'll see.
+
+a089a0e0-6eba-45bf-bb6c-5b652db4e897-0
+00:29:39.520 --> 00:29:43.660
+I think we need to discuss it together
+with Ransom as well to see what we should
+
+a089a0e0-6eba-45bf-bb6c-5b652db4e897-1
+00:29:43.660 --> 00:29:44.120
+do there.
+
+66ec96a7-e62c-4ac9-a17e-19e218b9f3a2-0
+00:29:44.600 --> 00:29:50.043
+Yes, don't forget, don't forget,
+mostly you don't have any data on your
+
+66ec96a7-e62c-4ac9-a17e-19e218b9f3a2-1
+00:29:50.043 --> 00:29:52.160
+production system, isn't it?
+
+9fe98718-1ccb-4154-81b1-47a4af16f4fc-0
+00:29:52.800 --> 00:29:56.360
+On your production system you usually
+don't have any data.
+
+e5995f8d-dcbb-4bb6-b871-957324f0f7f2-0
+00:29:56.720 --> 00:29:59.040
+You have data after Go live,
+but not for testing.
+
+81762dd1-21c5-4775-a918-b88ff4d052b2-0
+00:30:01.400 --> 00:30:07.120
+Or you have migration data,
+but you don't have new data, correct?
+
+d0aac529-fd96-4a62-9d21-681cee5de81a-0
+00:30:08.480 --> 00:30:09.640
+Sorry, I don't get the question.
+
+79e2fadc-3c03-4469-941a-e80880a7f683-0
+00:30:09.640 --> 00:30:10.560
+Could you rephrase it?
+
+893f8d3d-af57-4fb1-8893-00a741bbd20c-0
+00:30:10.560 --> 00:30:12.760
+Once again, Sorry, sorry, my mistake.
+
+261893bd-9192-4a1e-af84-b1071ba4490e-0
+00:30:12.760 --> 00:30:14.040
+Maybe it's too loud here.
+
+bd784dcb-aa22-4bef-a445-9c90b0908be1-0
+00:30:14.440 --> 00:30:18.640
+So too noisy usually on your production
+system.
+
+82a95963-d76c-4952-9365-f7c0b44ff672-0
+00:30:18.640 --> 00:30:22.600
+Actually at the moment you still don't
+have any data.
+
+2db4d335-fe2e-4260-b78d-b57a3a795300-0
+00:30:22.600 --> 00:30:24.960
+But I'm not sure if that's clear.
+
+544902f7-8158-4500-ba05-f4be9c8fd8bd-0
+00:30:24.960 --> 00:30:31.268
+But Ransom is already using sales source
+in production for about they started last
+
+544902f7-8158-4500-ba05-f4be9c8fd8bd-1
+00:30:31.268 --> 00:30:31.800
+summer.
+
+3dde093f-d023-40ea-a5f9-56efffb1a070-0
+00:30:32.560 --> 00:30:36.520
+So you had already a go live and you this
+is a working project.
+
+e847c9ab-547c-4f5a-94ca-c119a7543144-0
+00:30:36.520 --> 00:30:39.600
+So this is not still in development
+project.
+
+23a9f31f-707e-400b-ac79-243172b2c2a6-0
+00:30:39.600 --> 00:30:43.160
+You have already data and OK,
+so that's done.
+
+2c3ba62f-8dc1-45cb-b775-43e0308c9e8e-0
+00:30:43.160 --> 00:30:46.720
+The full copy sent box is a good starting
+point of course.
+
+a1a8fec0-7ff0-43bb-be34-c7ec6871ac5e-0
+00:30:48.680 --> 00:30:49.280
+Yep, we'll see.
+
+64257ac2-1245-4456-9e43-949e29c03e4e-0
+00:30:49.280 --> 00:30:52.200
+I think we it's also up to Ransom as well.
+
+c2e48dc9-e74c-4b1c-b6ee-ccae71c9655a-0
+00:30:52.400 --> 00:30:57.588
+Maybe we need to point out once again
+what the full copy actually does and then
+
+c2e48dc9-e74c-4b1c-b6ee-ccae71c9655a-1
+00:30:57.588 --> 00:31:02.971
+Ransom can also decide do we want to use
+that for testing with offer about core or
+
+c2e48dc9-e74c-4b1c-b6ee-ccae71c9655a-2
+00:31:02.971 --> 00:31:07.835
+would we rather have actually an
+environment without all of the production
+
+c2e48dc9-e74c-4b1c-b6ee-ccae71c9655a-3
+00:31:07.835 --> 00:31:08.160
+data.
+
+0d72603c-1cb9-42ec-b320-ca6d87d4913b-0
+00:31:08.800 --> 00:31:11.360
+Yeah,
+it's something we can have a look at.
+
+5ded07c7-170e-454e-8074-5be0d45c85d9-0
+00:31:11.360 --> 00:31:14.746
+But and I think even if I understood
+correctly,
+
+5ded07c7-170e-454e-8074-5be0d45c85d9-1
+00:31:14.746 --> 00:31:19.262
+if we use the same test environment,
+once you go to production,
+
+5ded07c7-170e-454e-8074-5be0d45c85d9-2
+00:31:19.262 --> 00:31:21.520
+everything needs to be released.
+
+5e3ebd51-7234-4511-8a15-2709a1aed7bf-0
+00:31:21.520 --> 00:31:26.208
+So also this,
+so we need to be make sure that we have
+
+5e3ebd51-7234-4511-8a15-2709a1aed7bf-1
+00:31:26.208 --> 00:31:31.679
+the freedom to say, OK,
+we want to wait with the bulk or until
+
+5e3ebd51-7234-4511-8a15-2709a1aed7bf-2
+00:31:31.679 --> 00:31:32.200
+later.
+
+c0a7186a-924d-43ea-bcd7-dd1ed50f59ac-0
+00:31:32.200 --> 00:31:37.683
+So that's maybe a reason to to have
+separate testing environments because now
+
+c0a7186a-924d-43ea-bcd7-dd1ed50f59ac-1
+00:31:37.683 --> 00:31:41.480
+we are still making our final timeline
+for this part.
+
+d918638c-0445-42bf-923f-89c307746640-0
+00:31:42.360 --> 00:31:49.044
+And as I see,
+it's also depending on other yeah related
+
+d918638c-0445-42bf-923f-89c307746640-1
+00:31:49.044 --> 00:31:49.880
+topics.
+
+c68a3028-369c-40f0-afbd-8cc83558b680-0
+00:31:50.840 --> 00:31:56.440
+So it's not really fixed scheduled
+already that we want to go live then.
+
+90e638c2-7338-4e75-a57c-33db8ff294bf-0
+00:31:56.600 --> 00:32:00.380
+So if we have some freedom and the
+projects or more freedom and the projects
+
+90e638c2-7338-4e75-a57c-33db8ff294bf-1
+00:32:00.380 --> 00:32:03.720
+by using a different testing environment,
+maybe that's a good idea.
+
+a2678559-2441-4db7-98f2-92d49d215ab2-0
+00:32:03.880 --> 00:32:10.720
+But I think we should discuss that indeed,
+I also discussed it with Olivia.
+
+dcfe01ff-be9c-443d-87d4-331ad23c4ad3-0
+00:32:10.720 --> 00:32:13.320
+We need to have a look at it,
+at the different options.
+
+11f9fdf3-8083-462e-b5b1-8d7ec7b7965b-0
+00:32:13.960 --> 00:32:18.120
+If we keep it separate,
+it offers more flexibility towards the
+
+11f9fdf3-8083-462e-b5b1-8d7ec7b7965b-1
+00:32:18.120 --> 00:32:19.640
+releases to production.
+
+7d35104f-d67c-40bf-8754-90c0803b9924-0
+00:32:19.720 --> 00:32:27.031
+But what we need anyway is there would
+need to be 1 environment where both, yeah,
+
+7d35104f-d67c-40bf-8754-90c0803b9924-1
+00:32:27.031 --> 00:32:28.280
+are available.
+
+968b76e2-4264-40b3-bf09-a208169962ec-0
+00:32:28.360 --> 00:32:32.414
+So where our current implementation is
+and where the bulk or implementation is
+
+968b76e2-4264-40b3-bf09-a208169962ec-1
+00:32:32.414 --> 00:32:36.315
+because it needs to be tested, of course,
+together before we can move it to
+
+968b76e2-4264-40b3-bf09-a208169962ec-2
+00:32:36.315 --> 00:32:36.880
+production.
+
+5e46c4f3-137d-4048-9b98-54030d98efc3-0
+00:32:37.040 --> 00:32:38.800
+So we will need that anyway.
+
+9e711e71-b58b-4841-8f75-7049d389b25f-0
+00:32:39.200 --> 00:32:44.053
+I think the question is rather,
+do we still want to do an additional
+
+9e711e71-b58b-4841-8f75-7049d389b25f-1
+00:32:44.053 --> 00:32:47.360
+layer of testing before we move to that
+stage?
+
+dc697017-1785-4aa6-87bf-6b18a9166142-0
+00:32:47.480 --> 00:32:48.400
+Yeah, yeah.
+
+c9bafe7f-a031-42fb-af70-fff5b5db537c-0
+00:32:48.840 --> 00:32:49.160
+OK.
+
+fd93bc28-f422-46cd-9425-3dfc7c94bba9-0
+00:32:49.680 --> 00:32:55.200
+That I think that's something that we
+will discuss internally with you with.
+
+d09455a7-fac1-44af-8b10-cc95ce8408f7-0
+00:32:57.240 --> 00:32:57.600
+Yeah.
+
+12378a84-ad0d-486e-a102-3cc73fb2b8cc-0
+00:32:58.160 --> 00:33:04.233
+Because now we are making our timelines
+and I see that there already are some
+
+12378a84-ad0d-486e-a102-3cc73fb2b8cc-1
+00:33:04.233 --> 00:33:08.828
+discussions, Yeah,
+because it's also depending on the item
+
+12378a84-ad0d-486e-a102-3cc73fb2b8cc-2
+00:33:08.828 --> 00:33:11.320
+data migration for other topics.
+
+d7d2e35f-5bad-44a7-98cb-68ecbf6881aa-0
+00:33:11.320 --> 00:33:13.880
+So I think, yeah,
+we need some flexibility there.
+
+cc7c5aeb-e1c5-44e4-b023-dffe8e81aaca-0
+00:33:13.880 --> 00:33:17.840
+But we can discuss this the coming week,
+I think.
+
+e2569826-7239-4a77-8d57-4497ef1c1b59-0
+00:33:18.480 --> 00:33:19.200
+OK, OK.
+
+906981f5-b2e4-462a-bc92-6a1f06c7a04b-0
+00:33:19.280 --> 00:33:23.560
+But it shouldn't be blocking for the
+start.
+
+f4ea2a2d-8a24-4842-852b-7d2c4ce45e0b-0
+00:33:23.560 --> 00:33:26.327
+No, no,
+because we can already give the dev
+
+f4ea2a2d-8a24-4842-852b-7d2c4ce45e0b-1
+00:33:26.327 --> 00:33:31.360
+environment because we know that that is
+sufficient for the first phase, right?
+
+5beb23f4-b30d-45c9-81a8-7fe421ddeef2-0
+00:33:31.440 --> 00:33:32.480
+Yeah, from me, Right.
+
+683a4f58-6e5e-43ea-944b-a91755f1bfe5-0
+00:33:33.760 --> 00:33:34.880
+That's also what I understand.
+
+5db03c7a-85f1-4466-b936-beca82a8808c-0
+00:33:34.880 --> 00:33:35.160
+Everything.
+
+a4215c88-86b5-4098-8baa-a250642c8d80-0
+00:33:35.160 --> 00:33:35.280
+Yeah.
+
+e30ba300-215c-4b6c-841e-156620864496-0
+00:33:35.680 --> 00:33:37.080
+OK is not OK.
+
+3e478e12-6b3c-406c-9de7-b270aef2b891-0
+00:33:37.320 --> 00:33:40.040
+Everything will go its way.
+
+a5b30ecd-37ba-4857-bdd3-46368b5a16f9-0
+00:33:41.360 --> 00:33:41.720
+OK.
+
+c3e21d43-9983-4828-9009-7154db0e9a56-0
+00:33:43.080 --> 00:33:43.280
+Yeah.
+
+85a8e6ba-e0fe-4ef6-93ff-722a6cb34f8f-0
+00:33:43.280 --> 00:33:47.080
+I just wanted to make sure that we don't
+bottleneck you in any way.
+
+4734a15b-dea6-4b0c-8e12-9fa2fadaa5df-0
+00:33:48.040 --> 00:33:48.400
+No, no.
+
+5e13fc24-bee8-4210-bd58-2922fa269ffc-0
+00:33:48.680 --> 00:33:52.823
+We start with the dev sandbox and Carina
+and me,
+
+5e13fc24-bee8-4210-bd58-2922fa269ffc-1
+00:33:52.823 --> 00:33:59.672
+we will figure out what is the best way
+yes to to make the training yes and yes,
+
+5e13fc24-bee8-4210-bd58-2922fa269ffc-2
+00:33:59.672 --> 00:34:05.675
+maybe we will also do the training itself
+on a different sandbox, yes,
+
+5e13fc24-bee8-4210-bd58-2922fa269ffc-3
+00:34:05.675 --> 00:34:08.719
+independent from your system at all.
+
+082611ee-7a0e-4b05-a283-63ba82a8f9a8-0
+00:34:08.760 --> 00:34:09.360
+I don't know.
+
+caf495c3-8c95-4452-98c6-0c4caa4da6e0-0
+00:34:09.600 --> 00:34:14.480
+We will check what what options we have
+and then Neil, I will contact you.
+
+9be83bd1-ee51-4398-8e79-7fb54ee0dca5-0
+00:34:14.760 --> 00:34:17.560
+Yes, assuming we have 90.
+
+426492e0-756d-47b6-831c-9061f19e747c-0
+00:34:18.400 --> 00:34:18.760
+Yes.
+
+c81396c2-d943-4419-a45a-c992498ee76c-0
+00:34:20.200 --> 00:34:20.480
+Thanks.
+
+ad3004f7-4cf4-4736-8da7-1daa8cce3165-0
+00:34:20.840 --> 00:34:21.280
+OK.
+
+dfd0f1ef-36df-4876-8d77-1f0ad257984c-0
+00:34:21.480 --> 00:34:23.600
+So any other topics?
+
+cf76dd71-b918-40ff-993c-b83a7760ea4e-0
+00:34:23.600 --> 00:34:25.240
+I think that's it.
+
+b1f1ca54-2094-4ea2-9a19-b1a9566253aa-0
+00:34:26.480 --> 00:34:28.480
+Yeah, that's it.
+
+7f2afb2a-8657-4ffa-a94b-ce263b60925c-0
+00:34:28.480 --> 00:34:33.840
+I did not have access for you yet to RAM
+you for the dev dev OPS environment.
+
+a70fb294-779a-4a19-932c-986a8e695b13-0
+00:34:33.840 --> 00:34:35.320
+But I'm still waiting for the answer.
+
+61ccd9ca-a339-4ff4-99c8-f76a798ced83-0
+00:34:35.320 --> 00:34:38.000
+I think today it's they will reply.
+
+ce19a70b-2ea9-499c-b3e6-efaa6e11eff8-0
+00:34:38.000 --> 00:34:40.880
+So I will contact you as soon as possible.
+
+9f9cbfd1-8639-46d6-a98c-d71c7847a073-0
+00:34:40.960 --> 00:34:41.720
+No problem.
+
+51e94156-3547-4f39-87bb-3723241e7b7b-0
+00:34:41.800 --> 00:34:42.640
+Have a nice day.
+
+9528b742-5764-440e-a4b0-dba189cb518f-0
+00:34:42.840 --> 00:34:43.600
+See you later.
+
+5e98cb78-8bfa-4ef7-99fd-4408264c493e-0
+00:34:43.920 --> 00:34:45.840
+Naylor, we keep in contact.
+
+7a71d483-a764-4d9f-82a3-af7140b6d0a6-0
+00:34:46.040 --> 00:34:46.520
+Yeah.
+
+d4dfa536-465a-4766-84b4-2a994a956356-0
+00:34:46.920 --> 00:34:47.120
+Bye.
+
+863b92d7-1382-4786-afcc-622da1be7e45-0
+00:34:47.120 --> 00:34:47.480
+Bye.
+
+c8f3c6a0-a5b9-4c98-8d13-6a32346e9944-0
+00:34:49.280 --> 00:34:49.680
+Thank you.
+
+8401fecc-39c4-497d-bccd-c879ca34ed0f-0
+00:34:49.680 --> 00:34:49.760
+Bye.
+
+d9b85a06-7f9a-4e1c-91b3-3531aca72d45-0
+00:34:50.640 --> 00:34:55.040
+Have a nice day, OK?
